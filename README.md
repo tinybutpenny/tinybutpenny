@@ -52,9 +52,10 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| 🛒 **[Console Supermarket App](https://github.com/tinybutpenny/Console-Supermarket)** | Beginner-friendly C++ console logic | ![C++](https://img.shields.io/badge/C++-004482?style=flat-square&logo=cplusplus&logoColor=white) |
-| 📟 **[RS485 MCU–PLC Communication](https://github.com/tinybutpenny/RS485-MCU-PLC)** | PLC & microcontroller comms testing | ![PLC](https://img.shields.io/badge/PLC-009999?style=flat-square) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
-| 🔌 **[PCB Power Module](https://github.com/tinybutpenny/PCB-Power-Module)** | Custom PCB for embedded hardware | ![Altium](https://img.shields.io/badge/Altium-A5915F?style=flat-square) |
+| 🏦 **[Mini-Bank](https://github.com/tinybutpenny/Mini-Bank)** | Banking system simulation in C++ | ![C++](https://img.shields.io/badge/C++-004482?style=flat-square&logo=cplusplus&logoColor=white) |
+| 🛒 **[Mini-Supermarket](https://github.com/tinybutpenny/Mini-Supermarket)** | Simple console-based supermarket simulation in C++ | ![C++](https://img.shields.io/badge/C++-004482?style=flat-square&logo=cplusplus&logoColor=white) |
+| 🎬 **[Mini-Cinema](https://github.com/tinybutpenny/Mini-Cinema)** | Cinema management system in C++ | ![C++](https://img.shields.io/badge/C++-004482?style=flat-square&logo=cplusplus&logoColor=white) |
+| ⚡ **[Single-Phase-Full-Bridge-Rectifier-TCA785](https://github.com/tinybutpenny/single-phase-full-bridge-rectifier-tca785)** | Fully controlled single-phase rectifier using TCA785 + SCR + Opto | ![Electronics](https://img.shields.io/badge/Electronics-FF6B35?style=flat-square) ![PCB](https://img.shields.io/badge/PCB%20Design-A5915F?style=flat-square) |
 
 </div>
 
@@ -69,14 +70,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinybutpenny&layout=compact&theme=gradient&hide_border=true&bg_color=ff6b9d,c44569" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tinybutpenny&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
