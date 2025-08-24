@@ -18,6 +18,7 @@
 - 🧠 **Logic-first thinker** 
 - 🔧 **Embedded systems developer**
 - 📐 **PCB designer** from schematic to production (Altium Designer)
+- 🏭 **PLC programmer**: Siemens S7
 - 🔍 Exploring **PLC–MCU communication** & **RS485**
 - 📚 Always learning and experimenting with new tech
 - 🎯 ***Clear logic > fancy code***
